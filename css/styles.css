@@ -1,0 +1,373 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: hsl(322, 100%, 66%);
+  font-size: 20px;
+  background: #ffffff;
+  padding: 7px 20px 7px 20px;
+  border: solid hsl(322, 100%, 66%) 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.anchor {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: hsl(322, 100%, 66%);
+  padding: 15px 50px 15px 50px;
+  border: solid #de21d8 1px;
+  text-decoration: none;
+}
+
+.entire{
+  margin: 0 auto;
+}
+.top{
+  width: 80%;
+position: absolute;
+left: 120px;
+top: 200px;
+
+}
+
+.logo{
+  position: absolute;;
+top: 50px;
+}
+
+.entire{
+  width: 1200px;
+  position: relative;
+}
+
+.reduce{
+  width: 50%;
+}
+
+.bg{
+  width: 1200px;
+}
+
+button{
+  position: absolute;
+  right: 0px;
+  top: 50px;
+}
+
+.top h1
+{
+  font-size: 44px;
+  margin-left: 15px;
+
+
+}
+
+.top p{
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+.anchor{
+position: absolute;
+left: 337px;
+margin-top: 40px;
+}
+
+.reduce{
+  width: 100%;
+  margin-top: 200px;
+}
+
+.mid-one{
+position: absolute;
+left: 40px;
+top: 1150px;
+}
+
+.mid-one img{
+  width: 50px;
+  position: absolute;
+  top: 10px;
+  left: 20px;
+}
+
+.mid-one h1{
+  font-size: 5rem;
+  margin-bottom: 15px;
+  }
+.mid-one p{
+width: 80%;
+}
+
+.mid-one-side{
+  position: absolute;
+  right: 40px;
+  top: 1150px;
+}
+.mid-one-side img{
+  width: 50px;
+position: absolute;
+top: 10px;
+left: 20px;
+
+}
+.mid-one-side h1{
+  font-size: 5rem;
+  margin-bottom: 15px;
+  }
+
+.grow{
+  width: 100%;
+  height: 400px;
+  background-color: #F6FBFF;
+  position: absolute;
+  top: 1900px;
+}
+
+.illu-one{
+  width: 35%;
+  float: right;
+  margin-right: 100px;
+}
+
+.grow h1{
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.grow p{
+  margin-left: 100px;
+width: 40%;
+line-height: 1.5;
+}
+
+.bg-top-grow{
+  width: 1200px;
+  position: absolute;
+  bottom: 400px;
+
+}
+
+.bg-bottom-grow{
+  width: 1200px;
+}
+
+.conversation{
+  width: 100%;
+  position: absolute;
+  top: 2500px;
+  height: 400px;
+
+}
+.converse{
+  margin-top: 50px;
+  width: 35%;
+  float: left;
+  margin-left: 100px;
+}
+
+.conversation h1{
+  width: 50%;
+margin-left: 600px;
+margin-top: 150px;
+margin-bottom: 0;
+
+}
+
+.conversation p{
+  line-height: 1.5;
+  width: 45%;
+  position: absolute;
+  right: 58px;
+}
+
+.user{
+  position: absolute;
+  top: 3100px;
+  width: 1200px;
+  height: 400px;
+  background-color: #F6FBFF;
+
+}
+
+.user .illu-user{
+  width: 35%;
+  margin-right: 100px;
+  margin-top: 40px;
+
+}
+
+
+.illu-user{
+  width: 40%;
+  float: right;
+}
+
+.user h1{
+  margin-left: 100px;
+  margin-top: 120px;
+}
+
+.user p{
+  margin-left: 100px;
+width: 40%;
+line-height: 1.5;
+}
+
+.bg-top-user{
+  width: 100%;
+position: absolute;
+bottom: 400px;
+}
+
+.bg-bottom-user{
+  position: absolute;
+  width: 100%;
+bottom: -110px;
+}
+
+.build{
+position: absolute;
+top: 3700px;
+margin-left: 360px;
+
+}
+
+.build a{
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: hsl(322, 100%, 66%);
+  padding: 15px 50px 15px 50px;
+  border: solid #de21d8 1px;
+  text-decoration: none;
+  width: 40%;
+margin-left: 113px;
+}
+
+.build h1{
+  margin-bottom: 50px;
+}
+
+.footer{
+  width: 1200px;
+  position: absolute;
+  top: 4150px;
+  height: 400px;
+  background-color: #00252E;
+}
+
+.left{
+  position: absolute;
+  top: 80px;
+}
+.left p{
+  width: 30%;
+  color: white;
+  font-size: 13px;
+
+}
+
+.phone{
+margin-left: 140px;
+}
+
+.lorem{
+  margin-left: 100px;
+}
+.ph-icon{
+  margin-left: 100px;
+  position: absolute;
+  bottom: 65px;
+}
+
+.ml-icon{
+  position: absolute;
+  bottom: 32px;
+  margin-left: 100px;
+  width: 20px;
+  height: 20px;
+}
+
+.mail{
+  margin-left: 140px;
+}
+
+.ft-bg{
+  position: absolute;
+  bottom: 400px;
+  width: 1200px;
+}
+
+.right{
+  color: white;
+  position: absolute;
+  right: 100px;
+  width: 40%;
+  bottom: 60px;
+}
+
+.right p{
+  width: 65%;
+  font-size: 13px;
+  margin-bottom: 40px;
+}
+
+.huddle-logo{
+  margin-left: 100px;
+}
+
+.subs{
+  width: 150px;
+  height: 45px;
+  background-color: hsl(321, 100%, 78%);
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 166px;
+  border-style: none;
+}
+
+.right input{
+width: 60%;
+  height: 40px;
+  border: solid hsl(0, 100%, 63%) 2px;
+  border-radius: 5px;
+
+}
+
+.right .check{
+  font-size: 10px;
+  color: hsl(0, 100%, 63%);
+}
+
+.left h1{
+  font-size: 45px;
+  color: white;
+  position: absolute;
+  left: 160px;
+  bottom: 140px;
+}
